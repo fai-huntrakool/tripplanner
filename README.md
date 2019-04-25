@@ -1,5 +1,5 @@
 # tripplanner
-For education purposes. Helps you extract attraction information from TripAdvisor.
+For education purposes. Help you extract attraction information from TripAdvisor.
 
 #  dependencies
 Install: bs4
