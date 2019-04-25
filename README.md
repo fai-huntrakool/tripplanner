@@ -1,7 +1,8 @@
 # tripplanner
-For education purposes.
+For education purposes. Helps you scrape Attraction information from TripAdvisor.
 
 #  dependencies
 Install: bs4
 
-- web_scrapping.py: scrape attractions data from tripadvisor.com
+# Steps
+- web_scrapping.py: scrape attractions data from tripadvisor.com and export to .csv
