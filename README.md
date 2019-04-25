@@ -5,4 +5,6 @@ For education purposes. Helps you scrape Attraction information from TripAdvisor
 Install: bs4
 
 # Steps
-- web_scrapping.py: scrape attractions data from tripadvisor.com and export to .csv
+1. web_scrapping.py: select destination of interest. Web_scrapping.py will work on scrapping attractions information from tripadvisor.com and export to .csv
+
+
